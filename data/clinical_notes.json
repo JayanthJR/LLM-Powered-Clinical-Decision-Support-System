@@ -1,0 +1,4502 @@
+[
+  {
+    "note_id": "NOTE-PAT-0001",
+    "patient_id": "PAT-0001",
+    "date": "2024-12-12",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fever. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0002",
+    "patient_id": "PAT-0002",
+    "date": "2024-01-04",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fever. History of Stroke. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0003",
+    "patient_id": "PAT-0003",
+    "date": "2024-02-10",
+    "physician": "Dr. Smith",
+    "note": "Admitted for dizziness. History of Hip Fracture. Labs show low hemoglobin. Initiated IV fluids.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0004",
+    "patient_id": "PAT-0004",
+    "date": "2024-12-09",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with swelling in legs. Vitals stable. Renal Failure exacerbation noted. Recommended specialist referral. Follow-up in 12 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0005",
+    "patient_id": "PAT-0005",
+    "date": "2024-07-24",
+    "physician": "Dr. Lee",
+    "note": "Admitted for confusion. History of Heart Failure. Labs show low hemoglobin. Initiated dietary counseling.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0006",
+    "patient_id": "PAT-0006",
+    "date": "2024-07-23",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with chest pain. Vitals stable. Pneumonia exacerbation noted. Recommended oxygen therapy. Follow-up in 10 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0007",
+    "patient_id": "PAT-0007",
+    "date": "2024-12-14",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Pneumonia exacerbation noted. Recommended physical therapy. Follow-up in 13 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0008",
+    "patient_id": "PAT-0008",
+    "date": "2024-11-23",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Diabetes Type 2 suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0009",
+    "patient_id": "PAT-0009",
+    "date": "2024-09-29",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for shortness of breath. History of COPD. Labs show elevated troponin. Initiated medication adjustment.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0010",
+    "patient_id": "PAT-0010",
+    "date": "2024-08-12",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for elevated blood glucose. Sepsis suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0011",
+    "patient_id": "PAT-0011",
+    "date": "2024-12-08",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for chest pain. Renal Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0012",
+    "patient_id": "PAT-0012",
+    "date": "2024-06-30",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports fever. Sepsis well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0013",
+    "patient_id": "PAT-0013",
+    "date": "2024-08-24",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with chest pain. Vitals stable. Hip Fracture exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0014",
+    "patient_id": "PAT-0014",
+    "date": "2024-01-31",
+    "physician": "Dr. Lee",
+    "note": "Admitted for shortness of breath. History of Stroke. Labs show low potassium. Initiated physical therapy.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0015",
+    "patient_id": "PAT-0015",
+    "date": "2024-09-14",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for elevated blood glucose. Renal Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0016",
+    "patient_id": "PAT-0016",
+    "date": "2024-01-21",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of COPD. Labs show elevated BNP. Initiated dietary counseling.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0017",
+    "patient_id": "PAT-0017",
+    "date": "2024-02-21",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for elevated blood glucose. COPD suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0018",
+    "patient_id": "PAT-0018",
+    "date": "2024-01-05",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports chest pain. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0019",
+    "patient_id": "PAT-0019",
+    "date": "2024-01-23",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for shortness of breath. Heart Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0020",
+    "patient_id": "PAT-0020",
+    "date": "2024-10-25",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. Diabetes Type 2 suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0021",
+    "patient_id": "PAT-0021",
+    "date": "2024-07-30",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with dizziness. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended specialist referral. Follow-up in 4 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0022",
+    "patient_id": "PAT-0022",
+    "date": "2024-06-28",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for shortness of breath. History of Hip Fracture. Labs show high HbA1c. Initiated physical therapy.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0023",
+    "patient_id": "PAT-0023",
+    "date": "2024-04-01",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with shortness of breath. Vitals stable. Renal Failure exacerbation noted. Recommended IV fluids. Follow-up in 12 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0024",
+    "patient_id": "PAT-0024",
+    "date": "2024-09-23",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Pneumonia. Labs show elevated creatinine. Initiated physical therapy.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0025",
+    "patient_id": "PAT-0025",
+    "date": "2024-03-06",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with chest pain. Vitals stable. Renal Failure exacerbation noted. Recommended physical therapy. Follow-up in 7 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0026",
+    "patient_id": "PAT-0026",
+    "date": "2024-09-18",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of Hip Fracture. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0027",
+    "patient_id": "PAT-0027",
+    "date": "2024-04-09",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. COPD well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0028",
+    "patient_id": "PAT-0028",
+    "date": "2024-08-25",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for fatigue. Sepsis suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0029",
+    "patient_id": "PAT-0029",
+    "date": "2024-10-03",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports swelling in legs. Pneumonia well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0030",
+    "patient_id": "PAT-0030",
+    "date": "2024-07-18",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Stroke. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0031",
+    "patient_id": "PAT-0031",
+    "date": "2024-09-05",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with dizziness. Vitals stable. Sepsis exacerbation noted. Recommended IV fluids. Follow-up in 7 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0032",
+    "patient_id": "PAT-0032",
+    "date": "2024-04-03",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for dizziness. History of COPD. Labs show high HbA1c. Initiated physical therapy.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0033",
+    "patient_id": "PAT-0033",
+    "date": "2024-01-16",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of COPD. Labs show high HbA1c. Initiated medication adjustment.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0034",
+    "patient_id": "PAT-0034",
+    "date": "2024-06-08",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports confusion. Diabetes Type 2 well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0035",
+    "patient_id": "PAT-0035",
+    "date": "2024-01-07",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. Renal Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0036",
+    "patient_id": "PAT-0036",
+    "date": "2024-05-17",
+    "physician": "Dr. Lee",
+    "note": "Admitted for dizziness. History of Hip Fracture. Labs show elevated BNP. Initiated medication adjustment.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0037",
+    "patient_id": "PAT-0037",
+    "date": "2024-12-25",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports dizziness. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0038",
+    "patient_id": "PAT-0038",
+    "date": "2024-05-30",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of Hip Fracture. Labs show elevated troponin. Initiated IV fluids.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0039",
+    "patient_id": "PAT-0039",
+    "date": "2024-04-08",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for shortness of breath. Renal Failure suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0040",
+    "patient_id": "PAT-0040",
+    "date": "2024-12-28",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports chest pain. Sepsis well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0041",
+    "patient_id": "PAT-0041",
+    "date": "2024-02-28",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for chest pain. Heart Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0042",
+    "patient_id": "PAT-0042",
+    "date": "2024-08-14",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports swelling in legs. Sepsis well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0043",
+    "patient_id": "PAT-0043",
+    "date": "2024-12-27",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0044",
+    "patient_id": "PAT-0044",
+    "date": "2024-03-25",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for chest pain. Pneumonia suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0045",
+    "patient_id": "PAT-0045",
+    "date": "2024-10-27",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fever. Heart Failure well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0046",
+    "patient_id": "PAT-0046",
+    "date": "2024-08-28",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Stroke well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0047",
+    "patient_id": "PAT-0047",
+    "date": "2024-07-30",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for swelling in legs. History of Heart Failure. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0048",
+    "patient_id": "PAT-0048",
+    "date": "2024-05-02",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fever. COPD suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0049",
+    "patient_id": "PAT-0049",
+    "date": "2024-09-17",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fatigue. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended specialist referral. Follow-up in 5 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0050",
+    "patient_id": "PAT-0050",
+    "date": "2024-06-23",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for elevated blood glucose. Pneumonia suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0051",
+    "patient_id": "PAT-0051",
+    "date": "2024-12-27",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports dizziness. Stroke well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0052",
+    "patient_id": "PAT-0052",
+    "date": "2024-01-08",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fatigue. Hip Fracture suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0053",
+    "patient_id": "PAT-0053",
+    "date": "2024-10-04",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Stroke well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0054",
+    "patient_id": "PAT-0054",
+    "date": "2024-01-24",
+    "physician": "Dr. Patel",
+    "note": "Admitted for elevated blood glucose. History of Hip Fracture. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0055",
+    "patient_id": "PAT-0055",
+    "date": "2024-10-25",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for swelling in legs. Stroke suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0056",
+    "patient_id": "PAT-0056",
+    "date": "2024-08-21",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with dizziness. Vitals stable. Pneumonia exacerbation noted. Recommended medication adjustment. Follow-up in 5 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0057",
+    "patient_id": "PAT-0057",
+    "date": "2024-04-27",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Heart Failure exacerbation noted. Recommended specialist referral. Follow-up in 7 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0058",
+    "patient_id": "PAT-0058",
+    "date": "2024-07-31",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for shortness of breath. Diabetes Type 2 suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0059",
+    "patient_id": "PAT-0059",
+    "date": "2024-04-25",
+    "physician": "Dr. Lee",
+    "note": "Admitted for fever. History of COPD. Labs show elevated BNP. Initiated dietary counseling.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0060",
+    "patient_id": "PAT-0060",
+    "date": "2024-01-13",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with confusion. Vitals stable. Renal Failure exacerbation noted. Recommended medication adjustment. Follow-up in 12 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0061",
+    "patient_id": "PAT-0061",
+    "date": "2024-03-10",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with confusion. Vitals stable. Hip Fracture exacerbation noted. Recommended specialist referral. Follow-up in 11 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0062",
+    "patient_id": "PAT-0062",
+    "date": "2024-08-15",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports dizziness. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0063",
+    "patient_id": "PAT-0063",
+    "date": "2024-01-11",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Hip Fracture exacerbation noted. Recommended IV fluids. Follow-up in 13 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0064",
+    "patient_id": "PAT-0064",
+    "date": "2024-01-02",
+    "physician": "Dr. Smith",
+    "note": "Admitted for fatigue. History of Sepsis. Labs show low hemoglobin. Initiated medication adjustment.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0065",
+    "patient_id": "PAT-0065",
+    "date": "2024-09-26",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports shortness of breath. Pneumonia well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0066",
+    "patient_id": "PAT-0066",
+    "date": "2024-02-01",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for swelling in legs. History of Pneumonia. Labs show elevated BNP. Initiated medication adjustment.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0067",
+    "patient_id": "PAT-0067",
+    "date": "2024-02-20",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Pneumonia. Labs show elevated troponin. Initiated oxygen therapy.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0068",
+    "patient_id": "PAT-0068",
+    "date": "2024-03-19",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Stroke well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0069",
+    "patient_id": "PAT-0069",
+    "date": "2024-01-27",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for dizziness. Renal Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0070",
+    "patient_id": "PAT-0070",
+    "date": "2024-11-10",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Stroke exacerbation noted. Recommended physical therapy. Follow-up in 10 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0071",
+    "patient_id": "PAT-0071",
+    "date": "2024-08-02",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. COPD well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0072",
+    "patient_id": "PAT-0072",
+    "date": "2024-11-06",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports swelling in legs. Pneumonia well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0073",
+    "patient_id": "PAT-0073",
+    "date": "2024-03-11",
+    "physician": "Dr. Lee",
+    "note": "Admitted for confusion. History of Heart Failure. Labs show elevated creatinine. Initiated oxygen therapy.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0074",
+    "patient_id": "PAT-0074",
+    "date": "2024-02-06",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for fever. Sepsis suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0075",
+    "patient_id": "PAT-0075",
+    "date": "2024-12-19",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of Diabetes Type 2. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0076",
+    "patient_id": "PAT-0076",
+    "date": "2024-09-18",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for elevated blood glucose. History of COPD. Labs show elevated troponin. Initiated IV fluids.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0077",
+    "patient_id": "PAT-0077",
+    "date": "2024-08-17",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Hip Fracture well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0078",
+    "patient_id": "PAT-0078",
+    "date": "2024-11-26",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports chest pain. Heart Failure well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0079",
+    "patient_id": "PAT-0079",
+    "date": "2024-02-13",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for fatigue. History of Diabetes Type 2. Labs show elevated troponin. Initiated oxygen therapy.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0080",
+    "patient_id": "PAT-0080",
+    "date": "2024-01-27",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with swelling in legs. Vitals stable. Stroke exacerbation noted. Recommended specialist referral. Follow-up in 6 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0081",
+    "patient_id": "PAT-0081",
+    "date": "2024-06-07",
+    "physician": "Dr. Lee",
+    "note": "Admitted for elevated blood glucose. History of Stroke. Labs show elevated troponin. Initiated medication adjustment.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0082",
+    "patient_id": "PAT-0082",
+    "date": "2024-04-08",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for swelling in legs. Sepsis suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0083",
+    "patient_id": "PAT-0083",
+    "date": "2024-03-25",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for fever. History of Stroke. Labs show elevated creatinine. Initiated specialist referral.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0084",
+    "patient_id": "PAT-0084",
+    "date": "2024-04-09",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for fever. Sepsis suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0085",
+    "patient_id": "PAT-0085",
+    "date": "2024-12-30",
+    "physician": "Dr. Lee",
+    "note": "Admitted for swelling in legs. History of Hip Fracture. Labs show elevated BNP. Initiated dietary counseling.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0086",
+    "patient_id": "PAT-0086",
+    "date": "2024-07-10",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Renal Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0087",
+    "patient_id": "PAT-0087",
+    "date": "2024-03-17",
+    "physician": "Dr. Smith",
+    "note": "Admitted for fatigue. History of Heart Failure. Labs show elevated creatinine. Initiated oxygen therapy.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0088",
+    "patient_id": "PAT-0088",
+    "date": "2024-11-01",
+    "physician": "Dr. Patel",
+    "note": "Admitted for shortness of breath. History of COPD. Labs show elevated troponin. Initiated specialist referral.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0089",
+    "patient_id": "PAT-0089",
+    "date": "2024-09-26",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with confusion. Vitals stable. COPD exacerbation noted. Recommended dietary counseling. Follow-up in 7 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0090",
+    "patient_id": "PAT-0090",
+    "date": "2024-06-22",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for chest pain. Renal Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0091",
+    "patient_id": "PAT-0091",
+    "date": "2024-07-22",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fatigue. History of Heart Failure. Labs show elevated creatinine. Initiated IV fluids.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0092",
+    "patient_id": "PAT-0092",
+    "date": "2024-09-11",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports dizziness. Hip Fracture well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0093",
+    "patient_id": "PAT-0093",
+    "date": "2024-12-19",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for chest pain. Hip Fracture suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0094",
+    "patient_id": "PAT-0094",
+    "date": "2024-01-18",
+    "physician": "Dr. Smith",
+    "note": "Admitted for dizziness. History of Heart Failure. Labs show elevated BNP. Initiated physical therapy.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0095",
+    "patient_id": "PAT-0095",
+    "date": "2024-11-28",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for dizziness. History of Diabetes Type 2. Labs show elevated troponin. Initiated medication adjustment.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0096",
+    "patient_id": "PAT-0096",
+    "date": "2024-08-19",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with elevated blood glucose. Vitals stable. Hip Fracture exacerbation noted. Recommended IV fluids. Follow-up in 5 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0097",
+    "patient_id": "PAT-0097",
+    "date": "2024-03-03",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with dizziness. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended medication adjustment. Follow-up in 3 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0098",
+    "patient_id": "PAT-0098",
+    "date": "2024-02-07",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for elevated blood glucose. Stroke suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0099",
+    "patient_id": "PAT-0099",
+    "date": "2024-06-26",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for swelling in legs. History of Pneumonia. Labs show elevated creatinine. Initiated dietary counseling.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0100",
+    "patient_id": "PAT-0100",
+    "date": "2024-06-21",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for shortness of breath. Diabetes Type 2 suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0101",
+    "patient_id": "PAT-0101",
+    "date": "2024-03-21",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Stroke well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0102",
+    "patient_id": "PAT-0102",
+    "date": "2024-10-14",
+    "physician": "Dr. Lee",
+    "note": "Admitted for swelling in legs. History of Stroke. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0103",
+    "patient_id": "PAT-0103",
+    "date": "2024-06-09",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with shortness of breath. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended specialist referral. Follow-up in 14 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0104",
+    "patient_id": "PAT-0104",
+    "date": "2024-11-30",
+    "physician": "Dr. Lee",
+    "note": "Admitted for elevated blood glucose. History of Heart Failure. Labs show low potassium. Initiated dietary counseling.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0105",
+    "patient_id": "PAT-0105",
+    "date": "2024-07-16",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with confusion. Vitals stable. Sepsis exacerbation noted. Recommended IV fluids. Follow-up in 7 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0106",
+    "patient_id": "PAT-0106",
+    "date": "2024-09-13",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports swelling in legs. Diabetes Type 2 well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0107",
+    "patient_id": "PAT-0107",
+    "date": "2024-09-29",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fatigue. Vitals stable. Pneumonia exacerbation noted. Recommended oxygen therapy. Follow-up in 8 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0108",
+    "patient_id": "PAT-0108",
+    "date": "2024-10-22",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports swelling in legs. Hip Fracture well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0109",
+    "patient_id": "PAT-0109",
+    "date": "2024-08-02",
+    "physician": "Dr. Patel",
+    "note": "Admitted for confusion. History of COPD. Labs show low hemoglobin. Initiated medication adjustment.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0110",
+    "patient_id": "PAT-0110",
+    "date": "2024-09-29",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with shortness of breath. Vitals stable. Stroke exacerbation noted. Recommended physical therapy. Follow-up in 13 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0111",
+    "patient_id": "PAT-0111",
+    "date": "2024-05-20",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fever. History of Hip Fracture. Labs show low potassium. Initiated medication adjustment.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0112",
+    "patient_id": "PAT-0112",
+    "date": "2024-10-02",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0113",
+    "patient_id": "PAT-0113",
+    "date": "2024-07-27",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for shortness of breath. History of Heart Failure. Labs show elevated troponin. Initiated IV fluids.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0114",
+    "patient_id": "PAT-0114",
+    "date": "2024-01-19",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports swelling in legs. Diabetes Type 2 well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0115",
+    "patient_id": "PAT-0115",
+    "date": "2024-04-08",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with confusion. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0116",
+    "patient_id": "PAT-0116",
+    "date": "2024-04-04",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with fatigue. Vitals stable. Renal Failure exacerbation noted. Recommended physical therapy. Follow-up in 7 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0117",
+    "patient_id": "PAT-0117",
+    "date": "2024-02-01",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for elevated blood glucose. History of Heart Failure. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0118",
+    "patient_id": "PAT-0118",
+    "date": "2024-07-10",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for confusion. History of Hip Fracture. Labs show low potassium. Initiated dietary counseling.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0119",
+    "patient_id": "PAT-0119",
+    "date": "2024-04-13",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fatigue. Vitals stable. Heart Failure exacerbation noted. Recommended dietary counseling. Follow-up in 11 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0120",
+    "patient_id": "PAT-0120",
+    "date": "2024-01-12",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for confusion. Heart Failure suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0121",
+    "patient_id": "PAT-0121",
+    "date": "2024-07-10",
+    "physician": "Dr. Lee",
+    "note": "Admitted for shortness of breath. History of Diabetes Type 2. Labs show low hemoglobin. Initiated IV fluids.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0122",
+    "patient_id": "PAT-0122",
+    "date": "2024-08-05",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Heart Failure exacerbation noted. Recommended physical therapy. Follow-up in 14 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0123",
+    "patient_id": "PAT-0123",
+    "date": "2024-10-31",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Heart Failure well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0124",
+    "patient_id": "PAT-0124",
+    "date": "2024-10-21",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports chest pain. Diabetes Type 2 well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0125",
+    "patient_id": "PAT-0125",
+    "date": "2024-09-25",
+    "physician": "Dr. Lee",
+    "note": "Admitted for elevated blood glucose. History of Hip Fracture. Labs show low hemoglobin. Initiated medication adjustment.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0126",
+    "patient_id": "PAT-0126",
+    "date": "2024-01-30",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fatigue. Pneumonia well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0127",
+    "patient_id": "PAT-0127",
+    "date": "2024-12-09",
+    "physician": "Dr. Patel",
+    "note": "Admitted for dizziness. History of Heart Failure. Labs show elevated creatinine. Initiated physical therapy.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0128",
+    "patient_id": "PAT-0128",
+    "date": "2024-06-06",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports swelling in legs. Stroke well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0129",
+    "patient_id": "PAT-0129",
+    "date": "2024-04-27",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fatigue. Stroke well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0130",
+    "patient_id": "PAT-0130",
+    "date": "2024-10-04",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. Diabetes Type 2 well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0131",
+    "patient_id": "PAT-0131",
+    "date": "2024-09-29",
+    "physician": "Dr. Smith",
+    "note": "Admitted for elevated blood glucose. History of Hip Fracture. Labs show elevated creatinine. Initiated IV fluids.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0132",
+    "patient_id": "PAT-0132",
+    "date": "2024-02-10",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with confusion. Vitals stable. Pneumonia exacerbation noted. Recommended specialist referral. Follow-up in 7 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0133",
+    "patient_id": "PAT-0133",
+    "date": "2024-02-18",
+    "physician": "Dr. Smith",
+    "note": "Admitted for fever. History of Stroke. Labs show high HbA1c. Initiated IV fluids.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0134",
+    "patient_id": "PAT-0134",
+    "date": "2024-02-09",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of Diabetes Type 2. Labs show low hemoglobin. Initiated IV fluids.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0135",
+    "patient_id": "PAT-0135",
+    "date": "2024-08-18",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for swelling in legs. Stroke suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0136",
+    "patient_id": "PAT-0136",
+    "date": "2024-07-18",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Stroke suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0137",
+    "patient_id": "PAT-0137",
+    "date": "2024-06-15",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for fever. History of Renal Failure. Labs show elevated BNP. Initiated specialist referral.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0138",
+    "patient_id": "PAT-0138",
+    "date": "2024-03-26",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports shortness of breath. Pneumonia well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0139",
+    "patient_id": "PAT-0139",
+    "date": "2024-07-13",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for dizziness. Heart Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0140",
+    "patient_id": "PAT-0140",
+    "date": "2024-07-11",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for dizziness. Hip Fracture suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0141",
+    "patient_id": "PAT-0141",
+    "date": "2024-05-03",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with fatigue. Vitals stable. Stroke exacerbation noted. Recommended specialist referral. Follow-up in 3 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0142",
+    "patient_id": "PAT-0142",
+    "date": "2024-10-31",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with confusion. Vitals stable. Heart Failure exacerbation noted. Recommended dietary counseling. Follow-up in 3 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0143",
+    "patient_id": "PAT-0143",
+    "date": "2024-12-13",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with shortness of breath. Vitals stable. Sepsis exacerbation noted. Recommended IV fluids. Follow-up in 6 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0144",
+    "patient_id": "PAT-0144",
+    "date": "2024-12-22",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports fatigue. Hip Fracture well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0145",
+    "patient_id": "PAT-0145",
+    "date": "2024-04-28",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with chest pain. Vitals stable. Renal Failure exacerbation noted. Recommended physical therapy. Follow-up in 14 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0146",
+    "patient_id": "PAT-0146",
+    "date": "2024-10-22",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with dizziness. Vitals stable. Pneumonia exacerbation noted. Recommended IV fluids. Follow-up in 10 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0147",
+    "patient_id": "PAT-0147",
+    "date": "2024-11-10",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for fatigue. Diabetes Type 2 suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0148",
+    "patient_id": "PAT-0148",
+    "date": "2024-12-21",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for dizziness. History of Stroke. Labs show elevated BNP. Initiated medication adjustment.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0149",
+    "patient_id": "PAT-0149",
+    "date": "2024-07-28",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports chest pain. Stroke well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0150",
+    "patient_id": "PAT-0150",
+    "date": "2024-10-08",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports chest pain. Hip Fracture well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0151",
+    "patient_id": "PAT-0151",
+    "date": "2024-08-12",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with dizziness. Vitals stable. Hip Fracture exacerbation noted. Recommended medication adjustment. Follow-up in 6 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0152",
+    "patient_id": "PAT-0152",
+    "date": "2024-03-27",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for fatigue. Renal Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0153",
+    "patient_id": "PAT-0153",
+    "date": "2024-11-17",
+    "physician": "Dr. Lee",
+    "note": "Admitted for confusion. History of Stroke. Labs show elevated creatinine. Initiated specialist referral.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0154",
+    "patient_id": "PAT-0154",
+    "date": "2024-02-02",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for fatigue. Hip Fracture suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0155",
+    "patient_id": "PAT-0155",
+    "date": "2024-08-13",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports swelling in legs. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0156",
+    "patient_id": "PAT-0156",
+    "date": "2024-07-09",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with swelling in legs. Vitals stable. COPD exacerbation noted. Recommended medication adjustment. Follow-up in 3 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0157",
+    "patient_id": "PAT-0157",
+    "date": "2024-12-21",
+    "physician": "Dr. Patel",
+    "note": "Admitted for fatigue. History of Renal Failure. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0158",
+    "patient_id": "PAT-0158",
+    "date": "2024-11-08",
+    "physician": "Dr. Patel",
+    "note": "Admitted for confusion. History of Diabetes Type 2. Labs show elevated BNP. Initiated IV fluids.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0159",
+    "patient_id": "PAT-0159",
+    "date": "2024-08-07",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. COPD well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0160",
+    "patient_id": "PAT-0160",
+    "date": "2024-09-10",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for swelling in legs. Pneumonia suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0161",
+    "patient_id": "PAT-0161",
+    "date": "2024-04-20",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with fatigue. Vitals stable. Heart Failure exacerbation noted. Recommended specialist referral. Follow-up in 5 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0162",
+    "patient_id": "PAT-0162",
+    "date": "2024-07-19",
+    "physician": "Dr. Smith",
+    "note": "Admitted for confusion. History of Sepsis. Labs show elevated troponin. Initiated dietary counseling.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0163",
+    "patient_id": "PAT-0163",
+    "date": "2024-09-24",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Heart Failure exacerbation noted. Recommended physical therapy. Follow-up in 9 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0164",
+    "patient_id": "PAT-0164",
+    "date": "2024-09-11",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports fatigue. Pneumonia well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0165",
+    "patient_id": "PAT-0165",
+    "date": "2024-10-10",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of Stroke. Labs show elevated troponin. Initiated oxygen therapy.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0166",
+    "patient_id": "PAT-0166",
+    "date": "2024-07-24",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fever. Diabetes Type 2 suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0167",
+    "patient_id": "PAT-0167",
+    "date": "2024-10-06",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports fatigue. Renal Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0168",
+    "patient_id": "PAT-0168",
+    "date": "2024-08-02",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for fever. COPD suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0169",
+    "patient_id": "PAT-0169",
+    "date": "2024-02-08",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for confusion. History of COPD. Labs show elevated BNP. Initiated medication adjustment.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0170",
+    "patient_id": "PAT-0170",
+    "date": "2024-03-20",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for dizziness. Diabetes Type 2 suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0171",
+    "patient_id": "PAT-0171",
+    "date": "2024-03-16",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports shortness of breath. Heart Failure well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0172",
+    "patient_id": "PAT-0172",
+    "date": "2024-02-18",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for fatigue. Hip Fracture suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0173",
+    "patient_id": "PAT-0173",
+    "date": "2024-11-26",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fatigue. COPD well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0174",
+    "patient_id": "PAT-0174",
+    "date": "2024-03-29",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for dizziness. Hip Fracture suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0175",
+    "patient_id": "PAT-0175",
+    "date": "2024-03-11",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for chest pain. History of Hip Fracture. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0176",
+    "patient_id": "PAT-0176",
+    "date": "2024-10-16",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for shortness of breath. Hip Fracture suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0177",
+    "patient_id": "PAT-0177",
+    "date": "2024-04-22",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with chest pain. Vitals stable. Sepsis exacerbation noted. Recommended specialist referral. Follow-up in 12 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0178",
+    "patient_id": "PAT-0178",
+    "date": "2024-10-04",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fatigue. Sepsis suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0179",
+    "patient_id": "PAT-0179",
+    "date": "2024-12-26",
+    "physician": "Dr. Lee",
+    "note": "Admitted for chest pain. History of Renal Failure. Labs show elevated creatinine. Initiated IV fluids.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0180",
+    "patient_id": "PAT-0180",
+    "date": "2024-11-28",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for fatigue. Diabetes Type 2 suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0181",
+    "patient_id": "PAT-0181",
+    "date": "2024-01-17",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for elevated blood glucose. History of Stroke. Labs show elevated BNP. Initiated dietary counseling.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0182",
+    "patient_id": "PAT-0182",
+    "date": "2024-05-07",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fever. Renal Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0183",
+    "patient_id": "PAT-0183",
+    "date": "2024-05-30",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports chest pain. Sepsis well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0184",
+    "patient_id": "PAT-0184",
+    "date": "2024-12-26",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fatigue. Vitals stable. Renal Failure exacerbation noted. Recommended physical therapy. Follow-up in 5 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0185",
+    "patient_id": "PAT-0185",
+    "date": "2024-10-08",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for confusion. Sepsis suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0186",
+    "patient_id": "PAT-0186",
+    "date": "2024-11-22",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Sepsis well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0187",
+    "patient_id": "PAT-0187",
+    "date": "2024-05-14",
+    "physician": "Dr. Smith",
+    "note": "Admitted for elevated blood glucose. History of Stroke. Labs show elevated troponin. Initiated medication adjustment.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0188",
+    "patient_id": "PAT-0188",
+    "date": "2024-09-24",
+    "physician": "Dr. Smith",
+    "note": "Admitted for dizziness. History of Sepsis. Labs show elevated creatinine. Initiated dietary counseling.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0189",
+    "patient_id": "PAT-0189",
+    "date": "2024-03-05",
+    "physician": "Dr. Patel",
+    "note": "Admitted for confusion. History of Diabetes Type 2. Labs show low potassium. Initiated IV fluids.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0190",
+    "patient_id": "PAT-0190",
+    "date": "2024-06-15",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. COPD exacerbation noted. Recommended dietary counseling. Follow-up in 8 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0191",
+    "patient_id": "PAT-0191",
+    "date": "2024-06-25",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for confusion. COPD suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0192",
+    "patient_id": "PAT-0192",
+    "date": "2024-07-09",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for dizziness. Sepsis suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0193",
+    "patient_id": "PAT-0193",
+    "date": "2024-08-14",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with swelling in legs. Vitals stable. Stroke exacerbation noted. Recommended physical therapy. Follow-up in 8 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0194",
+    "patient_id": "PAT-0194",
+    "date": "2024-01-30",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for elevated blood glucose. History of Heart Failure. Labs show elevated creatinine. Initiated IV fluids.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0195",
+    "patient_id": "PAT-0195",
+    "date": "2024-10-27",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with dizziness. Vitals stable. Hip Fracture exacerbation noted. Recommended physical therapy. Follow-up in 3 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0196",
+    "patient_id": "PAT-0196",
+    "date": "2024-01-11",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for dizziness. History of Sepsis. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0197",
+    "patient_id": "PAT-0197",
+    "date": "2024-12-12",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports chest pain. Hip Fracture well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0198",
+    "patient_id": "PAT-0198",
+    "date": "2024-05-13",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for shortness of breath. Renal Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0199",
+    "patient_id": "PAT-0199",
+    "date": "2024-10-25",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. Pneumonia well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0200",
+    "patient_id": "PAT-0200",
+    "date": "2024-04-23",
+    "physician": "Dr. Lee",
+    "note": "Admitted for swelling in legs. History of Diabetes Type 2. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0201",
+    "patient_id": "PAT-0201",
+    "date": "2024-06-01",
+    "physician": "Dr. Patel",
+    "note": "Admitted for chest pain. History of COPD. Labs show elevated BNP. Initiated oxygen therapy.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0202",
+    "patient_id": "PAT-0202",
+    "date": "2024-05-20",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fatigue. Vitals stable. Renal Failure exacerbation noted. Recommended medication adjustment. Follow-up in 12 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0203",
+    "patient_id": "PAT-0203",
+    "date": "2024-04-07",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for shortness of breath. Heart Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0204",
+    "patient_id": "PAT-0204",
+    "date": "2024-09-23",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. Heart Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0205",
+    "patient_id": "PAT-0205",
+    "date": "2024-07-11",
+    "physician": "Dr. Smith",
+    "note": "Admitted for dizziness. History of Diabetes Type 2. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0206",
+    "patient_id": "PAT-0206",
+    "date": "2024-10-07",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for swelling in legs. History of COPD. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0207",
+    "patient_id": "PAT-0207",
+    "date": "2024-09-11",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports swelling in legs. COPD well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0208",
+    "patient_id": "PAT-0208",
+    "date": "2024-12-09",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for dizziness. Hip Fracture suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0209",
+    "patient_id": "PAT-0209",
+    "date": "2024-01-21",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with fatigue. Vitals stable. Pneumonia exacerbation noted. Recommended physical therapy. Follow-up in 13 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0210",
+    "patient_id": "PAT-0210",
+    "date": "2024-07-09",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with shortness of breath. Vitals stable. Hip Fracture exacerbation noted. Recommended IV fluids. Follow-up in 7 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0211",
+    "patient_id": "PAT-0211",
+    "date": "2024-09-04",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with fever. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0212",
+    "patient_id": "PAT-0212",
+    "date": "2024-08-13",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for elevated blood glucose. History of Hip Fracture. Labs show high HbA1c. Initiated IV fluids.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0213",
+    "patient_id": "PAT-0213",
+    "date": "2024-11-09",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports swelling in legs. Stroke well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0214",
+    "patient_id": "PAT-0214",
+    "date": "2024-07-25",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for elevated blood glucose. Heart Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0215",
+    "patient_id": "PAT-0215",
+    "date": "2024-11-12",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for chest pain. History of Heart Failure. Labs show elevated creatinine. Initiated physical therapy.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0216",
+    "patient_id": "PAT-0216",
+    "date": "2024-01-02",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. COPD well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0217",
+    "patient_id": "PAT-0217",
+    "date": "2024-04-06",
+    "physician": "Dr. Smith",
+    "note": "Admitted for fever. History of Stroke. Labs show low potassium. Initiated oxygen therapy.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0218",
+    "patient_id": "PAT-0218",
+    "date": "2024-03-09",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports swelling in legs. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0219",
+    "patient_id": "PAT-0219",
+    "date": "2024-11-07",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for elevated blood glucose. Renal Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0220",
+    "patient_id": "PAT-0220",
+    "date": "2024-11-19",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with dizziness. Vitals stable. Renal Failure exacerbation noted. Recommended specialist referral. Follow-up in 11 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0221",
+    "patient_id": "PAT-0221",
+    "date": "2024-05-26",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Stroke. Labs show low hemoglobin. Initiated oxygen therapy.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0222",
+    "patient_id": "PAT-0222",
+    "date": "2024-04-14",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for chest pain. Diabetes Type 2 suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0223",
+    "patient_id": "PAT-0223",
+    "date": "2024-04-13",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with swelling in legs. Vitals stable. Renal Failure exacerbation noted. Recommended dietary counseling. Follow-up in 10 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0224",
+    "patient_id": "PAT-0224",
+    "date": "2024-10-11",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for chest pain. COPD suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0225",
+    "patient_id": "PAT-0225",
+    "date": "2024-09-26",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with confusion. Vitals stable. Renal Failure exacerbation noted. Recommended dietary counseling. Follow-up in 6 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0226",
+    "patient_id": "PAT-0226",
+    "date": "2024-07-03",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports chest pain. Sepsis well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0227",
+    "patient_id": "PAT-0227",
+    "date": "2024-07-16",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for dizziness. Renal Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0228",
+    "patient_id": "PAT-0228",
+    "date": "2024-11-16",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with elevated blood glucose. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended dietary counseling. Follow-up in 3 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0229",
+    "patient_id": "PAT-0229",
+    "date": "2024-05-12",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for fever. History of Pneumonia. Labs show low hemoglobin. Initiated IV fluids.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0230",
+    "patient_id": "PAT-0230",
+    "date": "2024-05-28",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports shortness of breath. COPD well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0231",
+    "patient_id": "PAT-0231",
+    "date": "2024-01-06",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports confusion. Pneumonia well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0232",
+    "patient_id": "PAT-0232",
+    "date": "2024-01-28",
+    "physician": "Dr. Smith",
+    "note": "Admitted for shortness of breath. History of Sepsis. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0233",
+    "patient_id": "PAT-0233",
+    "date": "2024-04-09",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports fatigue. Sepsis well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0234",
+    "patient_id": "PAT-0234",
+    "date": "2024-04-23",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports confusion. Stroke well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0235",
+    "patient_id": "PAT-0235",
+    "date": "2024-04-10",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for confusion. Pneumonia suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0236",
+    "patient_id": "PAT-0236",
+    "date": "2024-07-19",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fatigue. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0237",
+    "patient_id": "PAT-0237",
+    "date": "2024-01-21",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Diabetes Type 2 well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0238",
+    "patient_id": "PAT-0238",
+    "date": "2024-11-20",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fever. Renal Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0239",
+    "patient_id": "PAT-0239",
+    "date": "2024-09-06",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for confusion. History of Sepsis. Labs show low potassium. Initiated oxygen therapy.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0240",
+    "patient_id": "PAT-0240",
+    "date": "2024-12-04",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for shortness of breath. Renal Failure suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0241",
+    "patient_id": "PAT-0241",
+    "date": "2024-03-16",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with fatigue. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended oxygen therapy. Follow-up in 13 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0242",
+    "patient_id": "PAT-0242",
+    "date": "2024-11-03",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports shortness of breath. Hip Fracture well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0243",
+    "patient_id": "PAT-0243",
+    "date": "2024-03-31",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for swelling in legs. Stroke suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0244",
+    "patient_id": "PAT-0244",
+    "date": "2024-07-14",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports shortness of breath. Stroke well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0245",
+    "patient_id": "PAT-0245",
+    "date": "2024-01-04",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for chest pain. Heart Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0246",
+    "patient_id": "PAT-0246",
+    "date": "2024-07-30",
+    "physician": "Dr. Patel",
+    "note": "Admitted for confusion. History of Pneumonia. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0247",
+    "patient_id": "PAT-0247",
+    "date": "2024-03-23",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for dizziness. Renal Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0248",
+    "patient_id": "PAT-0248",
+    "date": "2024-12-30",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with swelling in legs. Vitals stable. Stroke exacerbation noted. Recommended oxygen therapy. Follow-up in 3 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0249",
+    "patient_id": "PAT-0249",
+    "date": "2024-07-23",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports chest pain. Heart Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0250",
+    "patient_id": "PAT-0250",
+    "date": "2024-06-27",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for confusion. Pneumonia suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0251",
+    "patient_id": "PAT-0251",
+    "date": "2024-05-08",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for swelling in legs. Pneumonia suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0252",
+    "patient_id": "PAT-0252",
+    "date": "2024-07-30",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for swelling in legs. Sepsis suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0253",
+    "patient_id": "PAT-0253",
+    "date": "2024-09-12",
+    "physician": "Dr. Smith",
+    "note": "Admitted for confusion. History of Diabetes Type 2. Labs show elevated BNP. Initiated dietary counseling.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0254",
+    "patient_id": "PAT-0254",
+    "date": "2024-06-10",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for elevated blood glucose. Heart Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0255",
+    "patient_id": "PAT-0255",
+    "date": "2024-08-23",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with chest pain. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended medication adjustment. Follow-up in 13 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0256",
+    "patient_id": "PAT-0256",
+    "date": "2024-06-24",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for chest pain. Sepsis suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0257",
+    "patient_id": "PAT-0257",
+    "date": "2024-10-11",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fever. Vitals stable. COPD exacerbation noted. Recommended physical therapy. Follow-up in 12 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0258",
+    "patient_id": "PAT-0258",
+    "date": "2024-10-14",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports confusion. Renal Failure well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0259",
+    "patient_id": "PAT-0259",
+    "date": "2024-04-11",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for chest pain. Renal Failure suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0260",
+    "patient_id": "PAT-0260",
+    "date": "2024-07-26",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports fever. Renal Failure well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0261",
+    "patient_id": "PAT-0261",
+    "date": "2024-03-05",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for shortness of breath. Hip Fracture suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0262",
+    "patient_id": "PAT-0262",
+    "date": "2024-02-13",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. COPD well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0263",
+    "patient_id": "PAT-0263",
+    "date": "2024-05-19",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for dizziness. Renal Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0264",
+    "patient_id": "PAT-0264",
+    "date": "2024-01-01",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with shortness of breath. Vitals stable. Stroke exacerbation noted. Recommended IV fluids. Follow-up in 8 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0265",
+    "patient_id": "PAT-0265",
+    "date": "2024-10-14",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports swelling in legs. Heart Failure well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0266",
+    "patient_id": "PAT-0266",
+    "date": "2024-07-30",
+    "physician": "Dr. Lee",
+    "note": "Admitted for confusion. History of Pneumonia. Labs show elevated BNP. Initiated IV fluids.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0267",
+    "patient_id": "PAT-0267",
+    "date": "2024-01-05",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for shortness of breath. Pneumonia suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0268",
+    "patient_id": "PAT-0268",
+    "date": "2024-02-11",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Hip Fracture suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0269",
+    "patient_id": "PAT-0269",
+    "date": "2024-09-23",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for confusion. History of Sepsis. Labs show elevated BNP. Initiated IV fluids.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0270",
+    "patient_id": "PAT-0270",
+    "date": "2024-02-27",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for chest pain. History of Sepsis. Labs show elevated troponin. Initiated specialist referral.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0271",
+    "patient_id": "PAT-0271",
+    "date": "2024-03-21",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports fatigue. Diabetes Type 2 well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0272",
+    "patient_id": "PAT-0272",
+    "date": "2024-11-26",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with shortness of breath. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended dietary counseling. Follow-up in 3 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0273",
+    "patient_id": "PAT-0273",
+    "date": "2024-05-20",
+    "physician": "Dr. Lee",
+    "note": "Admitted for shortness of breath. History of Diabetes Type 2. Labs show low potassium. Initiated physical therapy.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0274",
+    "patient_id": "PAT-0274",
+    "date": "2024-05-02",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with confusion. Vitals stable. Heart Failure exacerbation noted. Recommended medication adjustment. Follow-up in 14 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0275",
+    "patient_id": "PAT-0275",
+    "date": "2024-01-17",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for fever. History of Heart Failure. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0276",
+    "patient_id": "PAT-0276",
+    "date": "2024-08-27",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for dizziness. History of Heart Failure. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0277",
+    "patient_id": "PAT-0277",
+    "date": "2024-07-16",
+    "physician": "Dr. Patel",
+    "note": "Admitted for dizziness. History of COPD. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0278",
+    "patient_id": "PAT-0278",
+    "date": "2024-02-23",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with elevated blood glucose. Vitals stable. Renal Failure exacerbation noted. Recommended medication adjustment. Follow-up in 5 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0279",
+    "patient_id": "PAT-0279",
+    "date": "2024-10-08",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with chest pain. Vitals stable. Sepsis exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0280",
+    "patient_id": "PAT-0280",
+    "date": "2024-06-10",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Heart Failure exacerbation noted. Recommended IV fluids. Follow-up in 7 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0281",
+    "patient_id": "PAT-0281",
+    "date": "2024-07-23",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Pneumonia. Labs show high HbA1c. Initiated medication adjustment.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0282",
+    "patient_id": "PAT-0282",
+    "date": "2024-08-01",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for confusion. History of Heart Failure. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0283",
+    "patient_id": "PAT-0283",
+    "date": "2024-09-15",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for chest pain. Stroke suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0284",
+    "patient_id": "PAT-0284",
+    "date": "2024-12-23",
+    "physician": "Dr. Lee",
+    "note": "Admitted for confusion. History of Pneumonia. Labs show elevated BNP. Initiated dietary counseling.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0285",
+    "patient_id": "PAT-0285",
+    "date": "2024-02-15",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for fatigue. Stroke suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0286",
+    "patient_id": "PAT-0286",
+    "date": "2024-11-15",
+    "physician": "Dr. Smith",
+    "note": "Admitted for shortness of breath. History of Renal Failure. Labs show high HbA1c. Initiated medication adjustment.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0287",
+    "patient_id": "PAT-0287",
+    "date": "2024-06-18",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for shortness of breath. COPD suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0288",
+    "patient_id": "PAT-0288",
+    "date": "2024-01-23",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports chest pain. Stroke well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0289",
+    "patient_id": "PAT-0289",
+    "date": "2024-12-29",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fatigue. Vitals stable. Stroke exacerbation noted. Recommended IV fluids. Follow-up in 8 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0290",
+    "patient_id": "PAT-0290",
+    "date": "2024-06-19",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for shortness of breath. History of Heart Failure. Labs show low hemoglobin. Initiated oxygen therapy.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0291",
+    "patient_id": "PAT-0291",
+    "date": "2024-10-11",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fatigue. Vitals stable. Pneumonia exacerbation noted. Recommended oxygen therapy. Follow-up in 7 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0292",
+    "patient_id": "PAT-0292",
+    "date": "2024-06-08",
+    "physician": "Dr. Patel",
+    "note": "Admitted for chest pain. History of Stroke. Labs show low potassium. Initiated oxygen therapy.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0293",
+    "patient_id": "PAT-0293",
+    "date": "2024-12-01",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fever. Diabetes Type 2 well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0294",
+    "patient_id": "PAT-0294",
+    "date": "2024-03-18",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for dizziness. Stroke suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0295",
+    "patient_id": "PAT-0295",
+    "date": "2024-08-28",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports confusion. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0296",
+    "patient_id": "PAT-0296",
+    "date": "2024-04-14",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fatigue. Pneumonia well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0297",
+    "patient_id": "PAT-0297",
+    "date": "2024-01-22",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for fever. Heart Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0298",
+    "patient_id": "PAT-0298",
+    "date": "2024-01-28",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports swelling in legs. Hip Fracture well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0299",
+    "patient_id": "PAT-0299",
+    "date": "2024-12-30",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for confusion. Hip Fracture suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0300",
+    "patient_id": "PAT-0300",
+    "date": "2024-11-09",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports chest pain. COPD well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0301",
+    "patient_id": "PAT-0301",
+    "date": "2024-03-08",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports confusion. Hip Fracture well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0302",
+    "patient_id": "PAT-0302",
+    "date": "2024-11-03",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports confusion. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0303",
+    "patient_id": "PAT-0303",
+    "date": "2024-02-25",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports confusion. Pneumonia well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0304",
+    "patient_id": "PAT-0304",
+    "date": "2024-08-06",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with dizziness. Vitals stable. Renal Failure exacerbation noted. Recommended specialist referral. Follow-up in 8 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0305",
+    "patient_id": "PAT-0305",
+    "date": "2024-12-27",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for swelling in legs. History of COPD. Labs show high HbA1c. Initiated medication adjustment.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0306",
+    "patient_id": "PAT-0306",
+    "date": "2024-04-09",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with swelling in legs. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended IV fluids. Follow-up in 10 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0307",
+    "patient_id": "PAT-0307",
+    "date": "2024-09-16",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports dizziness. Pneumonia well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0308",
+    "patient_id": "PAT-0308",
+    "date": "2024-09-03",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports dizziness. Hip Fracture well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0309",
+    "patient_id": "PAT-0309",
+    "date": "2024-01-16",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports chest pain. Renal Failure well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0310",
+    "patient_id": "PAT-0310",
+    "date": "2024-02-14",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for swelling in legs. Renal Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0311",
+    "patient_id": "PAT-0311",
+    "date": "2024-09-04",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fever. Vitals stable. Hip Fracture exacerbation noted. Recommended dietary counseling. Follow-up in 3 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0312",
+    "patient_id": "PAT-0312",
+    "date": "2024-06-19",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. Heart Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0313",
+    "patient_id": "PAT-0313",
+    "date": "2024-10-13",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports confusion. Diabetes Type 2 well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0314",
+    "patient_id": "PAT-0314",
+    "date": "2024-12-11",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports shortness of breath. Hip Fracture well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0315",
+    "patient_id": "PAT-0315",
+    "date": "2024-02-10",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for elevated blood glucose. Sepsis suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0316",
+    "patient_id": "PAT-0316",
+    "date": "2024-06-15",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with swelling in legs. Vitals stable. Stroke exacerbation noted. Recommended specialist referral. Follow-up in 3 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0317",
+    "patient_id": "PAT-0317",
+    "date": "2024-06-15",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. COPD suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0318",
+    "patient_id": "PAT-0318",
+    "date": "2024-08-10",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports swelling in legs. Sepsis well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0319",
+    "patient_id": "PAT-0319",
+    "date": "2024-02-16",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports fever. Stroke well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0320",
+    "patient_id": "PAT-0320",
+    "date": "2024-10-18",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports fever. Sepsis well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0321",
+    "patient_id": "PAT-0321",
+    "date": "2024-07-20",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports chest pain. Heart Failure well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0322",
+    "patient_id": "PAT-0322",
+    "date": "2024-03-19",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fatigue. Vitals stable. Stroke exacerbation noted. Recommended medication adjustment. Follow-up in 8 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0323",
+    "patient_id": "PAT-0323",
+    "date": "2024-08-05",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for dizziness. Stroke suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0324",
+    "patient_id": "PAT-0324",
+    "date": "2024-09-04",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. Renal Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0325",
+    "patient_id": "PAT-0325",
+    "date": "2024-12-16",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with chest pain. Vitals stable. COPD exacerbation noted. Recommended medication adjustment. Follow-up in 7 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0326",
+    "patient_id": "PAT-0326",
+    "date": "2024-05-28",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports swelling in legs. Stroke well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0327",
+    "patient_id": "PAT-0327",
+    "date": "2024-02-09",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports fatigue. Pneumonia well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0328",
+    "patient_id": "PAT-0328",
+    "date": "2024-09-05",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fatigue. Vitals stable. Renal Failure exacerbation noted. Recommended oxygen therapy. Follow-up in 5 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0329",
+    "patient_id": "PAT-0329",
+    "date": "2024-08-31",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fever. COPD suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0330",
+    "patient_id": "PAT-0330",
+    "date": "2024-07-14",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fever. History of Heart Failure. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0331",
+    "patient_id": "PAT-0331",
+    "date": "2024-09-23",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fever. Sepsis well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0332",
+    "patient_id": "PAT-0332",
+    "date": "2024-01-18",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports chest pain. Sepsis well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0333",
+    "patient_id": "PAT-0333",
+    "date": "2024-11-23",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Pneumonia. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0334",
+    "patient_id": "PAT-0334",
+    "date": "2024-02-05",
+    "physician": "Dr. Smith",
+    "note": "Admitted for shortness of breath. History of Pneumonia. Labs show elevated troponin. Initiated specialist referral.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0335",
+    "patient_id": "PAT-0335",
+    "date": "2024-11-30",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for dizziness. Hip Fracture suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0336",
+    "patient_id": "PAT-0336",
+    "date": "2024-10-03",
+    "physician": "Dr. Lee",
+    "note": "Admitted for swelling in legs. History of Hip Fracture. Labs show elevated troponin. Initiated oxygen therapy.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0337",
+    "patient_id": "PAT-0337",
+    "date": "2024-03-31",
+    "physician": "Dr. Patel",
+    "note": "Admitted for chest pain. History of Hip Fracture. Labs show high HbA1c. Initiated IV fluids.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0338",
+    "patient_id": "PAT-0338",
+    "date": "2024-11-25",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fever. Hip Fracture suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0339",
+    "patient_id": "PAT-0339",
+    "date": "2024-01-19",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for dizziness. Diabetes Type 2 suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0340",
+    "patient_id": "PAT-0340",
+    "date": "2024-02-02",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for elevated blood glucose. History of Hip Fracture. Labs show elevated creatinine. Initiated physical therapy.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0341",
+    "patient_id": "PAT-0341",
+    "date": "2024-06-20",
+    "physician": "Dr. Patel",
+    "note": "Admitted for fever. History of Sepsis. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0342",
+    "patient_id": "PAT-0342",
+    "date": "2024-01-04",
+    "physician": "Dr. Patel",
+    "note": "Admitted for shortness of breath. History of Diabetes Type 2. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0343",
+    "patient_id": "PAT-0343",
+    "date": "2024-11-09",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with fever. Vitals stable. Heart Failure exacerbation noted. Recommended specialist referral. Follow-up in 11 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0344",
+    "patient_id": "PAT-0344",
+    "date": "2024-05-21",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Sepsis well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0345",
+    "patient_id": "PAT-0345",
+    "date": "2024-10-02",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports confusion. Hip Fracture well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0346",
+    "patient_id": "PAT-0346",
+    "date": "2024-04-27",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for swelling in legs. Stroke suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0347",
+    "patient_id": "PAT-0347",
+    "date": "2024-07-10",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports chest pain. Sepsis well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0348",
+    "patient_id": "PAT-0348",
+    "date": "2024-04-22",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for dizziness. Hip Fracture suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0349",
+    "patient_id": "PAT-0349",
+    "date": "2024-04-23",
+    "physician": "Dr. Lee",
+    "note": "Admitted for elevated blood glucose. History of Sepsis. Labs show elevated troponin. Initiated physical therapy.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0350",
+    "patient_id": "PAT-0350",
+    "date": "2024-08-19",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for chest pain. Stroke suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0351",
+    "patient_id": "PAT-0351",
+    "date": "2024-01-13",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Hip Fracture. Labs show elevated creatinine. Initiated IV fluids.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0352",
+    "patient_id": "PAT-0352",
+    "date": "2024-06-20",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with elevated blood glucose. Vitals stable. Sepsis exacerbation noted. Recommended IV fluids. Follow-up in 4 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0353",
+    "patient_id": "PAT-0353",
+    "date": "2024-10-24",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with elevated blood glucose. Vitals stable. Renal Failure exacerbation noted. Recommended IV fluids. Follow-up in 12 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0354",
+    "patient_id": "PAT-0354",
+    "date": "2024-08-28",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for confusion. Hip Fracture suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0355",
+    "patient_id": "PAT-0355",
+    "date": "2024-05-30",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports fever. Diabetes Type 2 well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0356",
+    "patient_id": "PAT-0356",
+    "date": "2024-09-05",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Renal Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0357",
+    "patient_id": "PAT-0357",
+    "date": "2024-03-30",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with chest pain. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended IV fluids. Follow-up in 11 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0358",
+    "patient_id": "PAT-0358",
+    "date": "2024-03-24",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for elevated blood glucose. Renal Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0359",
+    "patient_id": "PAT-0359",
+    "date": "2024-12-07",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports chest pain. Hip Fracture well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0360",
+    "patient_id": "PAT-0360",
+    "date": "2024-11-07",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Hip Fracture suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0361",
+    "patient_id": "PAT-0361",
+    "date": "2024-01-29",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for swelling in legs. Hip Fracture suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0362",
+    "patient_id": "PAT-0362",
+    "date": "2024-07-31",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with fatigue. Vitals stable. COPD exacerbation noted. Recommended specialist referral. Follow-up in 3 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0363",
+    "patient_id": "PAT-0363",
+    "date": "2024-07-31",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fever. Stroke well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0364",
+    "patient_id": "PAT-0364",
+    "date": "2024-04-24",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fever. History of Pneumonia. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0365",
+    "patient_id": "PAT-0365",
+    "date": "2024-10-24",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports dizziness. Hip Fracture well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0366",
+    "patient_id": "PAT-0366",
+    "date": "2024-08-24",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for chest pain. History of Diabetes Type 2. Labs show elevated BNP. Initiated medication adjustment.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0367",
+    "patient_id": "PAT-0367",
+    "date": "2024-12-16",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fever. Diabetes Type 2 well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0368",
+    "patient_id": "PAT-0368",
+    "date": "2024-09-14",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fever. Renal Failure well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0369",
+    "patient_id": "PAT-0369",
+    "date": "2024-09-24",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with swelling in legs. Vitals stable. Renal Failure exacerbation noted. Recommended oxygen therapy. Follow-up in 14 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0370",
+    "patient_id": "PAT-0370",
+    "date": "2024-12-19",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for chest pain. Sepsis suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0371",
+    "patient_id": "PAT-0371",
+    "date": "2024-02-19",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with fatigue. Vitals stable. Heart Failure exacerbation noted. Recommended dietary counseling. Follow-up in 6 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0372",
+    "patient_id": "PAT-0372",
+    "date": "2024-11-09",
+    "physician": "Dr. Patel",
+    "note": "Admitted for swelling in legs. History of Renal Failure. Labs show low hemoglobin. Initiated dietary counseling.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0373",
+    "patient_id": "PAT-0373",
+    "date": "2024-07-06",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for swelling in legs. Sepsis suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0374",
+    "patient_id": "PAT-0374",
+    "date": "2024-07-03",
+    "physician": "Dr. Lee",
+    "note": "Admitted for confusion. History of Hip Fracture. Labs show high HbA1c. Initiated specialist referral.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0375",
+    "patient_id": "PAT-0375",
+    "date": "2024-04-06",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fatigue. Sepsis suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0376",
+    "patient_id": "PAT-0376",
+    "date": "2024-02-22",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports confusion. Diabetes Type 2 well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0377",
+    "patient_id": "PAT-0377",
+    "date": "2024-07-26",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports dizziness. Stroke well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0378",
+    "patient_id": "PAT-0378",
+    "date": "2024-09-12",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports chest pain. Heart Failure well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0379",
+    "patient_id": "PAT-0379",
+    "date": "2024-09-15",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Sepsis well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0380",
+    "patient_id": "PAT-0380",
+    "date": "2024-10-12",
+    "physician": "Dr. Lee",
+    "note": "Admitted for fever. History of Hip Fracture. Labs show low potassium. Initiated specialist referral.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0381",
+    "patient_id": "PAT-0381",
+    "date": "2024-01-29",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports fatigue. Hip Fracture well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0382",
+    "patient_id": "PAT-0382",
+    "date": "2024-07-13",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with elevated blood glucose. Vitals stable. Heart Failure exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0383",
+    "patient_id": "PAT-0383",
+    "date": "2024-10-17",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for elevated blood glucose. History of Renal Failure. Labs show elevated creatinine. Initiated physical therapy.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0384",
+    "patient_id": "PAT-0384",
+    "date": "2024-06-21",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for elevated blood glucose. Hip Fracture suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0385",
+    "patient_id": "PAT-0385",
+    "date": "2024-07-24",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with shortness of breath. Vitals stable. Pneumonia exacerbation noted. Recommended oxygen therapy. Follow-up in 5 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0386",
+    "patient_id": "PAT-0386",
+    "date": "2024-12-05",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports fatigue. Pneumonia well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0387",
+    "patient_id": "PAT-0387",
+    "date": "2024-09-24",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for dizziness. History of Stroke. Labs show elevated creatinine. Initiated dietary counseling.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0388",
+    "patient_id": "PAT-0388",
+    "date": "2024-04-30",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports dizziness. Pneumonia well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0389",
+    "patient_id": "PAT-0389",
+    "date": "2024-09-05",
+    "physician": "Dr. Patel",
+    "note": "Admitted for confusion. History of Pneumonia. Labs show elevated creatinine. Initiated dietary counseling.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0390",
+    "patient_id": "PAT-0390",
+    "date": "2024-11-03",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Pneumonia well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0391",
+    "patient_id": "PAT-0391",
+    "date": "2024-10-06",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for swelling in legs. Renal Failure suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0392",
+    "patient_id": "PAT-0392",
+    "date": "2024-11-23",
+    "physician": "Dr. Lee",
+    "note": "Admitted for elevated blood glucose. History of Sepsis. Labs show low potassium. Initiated IV fluids.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0393",
+    "patient_id": "PAT-0393",
+    "date": "2024-01-18",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for elevated blood glucose. History of Diabetes Type 2. Labs show high HbA1c. Initiated oxygen therapy.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0394",
+    "patient_id": "PAT-0394",
+    "date": "2024-11-24",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for fatigue. Renal Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0395",
+    "patient_id": "PAT-0395",
+    "date": "2024-06-12",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fever. History of Diabetes Type 2. Labs show low potassium. Initiated specialist referral.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0396",
+    "patient_id": "PAT-0396",
+    "date": "2024-11-16",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fever. Heart Failure well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0397",
+    "patient_id": "PAT-0397",
+    "date": "2024-08-10",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for confusion. Diabetes Type 2 suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0398",
+    "patient_id": "PAT-0398",
+    "date": "2024-04-02",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with confusion. Vitals stable. Pneumonia exacerbation noted. Recommended medication adjustment. Follow-up in 5 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0399",
+    "patient_id": "PAT-0399",
+    "date": "2024-12-28",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports dizziness. Stroke well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0400",
+    "patient_id": "PAT-0400",
+    "date": "2024-06-03",
+    "physician": "Dr. Patel",
+    "note": "Admitted for elevated blood glucose. History of Heart Failure. Labs show low hemoglobin. Initiated medication adjustment.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0401",
+    "patient_id": "PAT-0401",
+    "date": "2024-05-13",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for shortness of breath. Renal Failure suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0402",
+    "patient_id": "PAT-0402",
+    "date": "2024-03-18",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended medication adjustment. Follow-up in 7 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0403",
+    "patient_id": "PAT-0403",
+    "date": "2024-09-05",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with swelling in legs. Vitals stable. Hip Fracture exacerbation noted. Recommended physical therapy. Follow-up in 4 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0404",
+    "patient_id": "PAT-0404",
+    "date": "2024-04-18",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for swelling in legs. Pneumonia suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0405",
+    "patient_id": "PAT-0405",
+    "date": "2024-02-11",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with dizziness. Vitals stable. COPD exacerbation noted. Recommended physical therapy. Follow-up in 5 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0406",
+    "patient_id": "PAT-0406",
+    "date": "2024-06-14",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Sepsis suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0407",
+    "patient_id": "PAT-0407",
+    "date": "2024-06-07",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for elevated blood glucose. History of Diabetes Type 2. Labs show elevated BNP. Initiated specialist referral.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0408",
+    "patient_id": "PAT-0408",
+    "date": "2024-08-04",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Pneumonia exacerbation noted. Recommended physical therapy. Follow-up in 14 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0409",
+    "patient_id": "PAT-0409",
+    "date": "2024-12-16",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Hip Fracture exacerbation noted. Recommended medication adjustment. Follow-up in 5 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0410",
+    "patient_id": "PAT-0410",
+    "date": "2024-05-09",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with chest pain. Vitals stable. COPD exacerbation noted. Recommended IV fluids. Follow-up in 6 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0411",
+    "patient_id": "PAT-0411",
+    "date": "2024-12-09",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for shortness of breath. Pneumonia suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0412",
+    "patient_id": "PAT-0412",
+    "date": "2024-02-29",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with chest pain. Vitals stable. Stroke exacerbation noted. Recommended oxygen therapy. Follow-up in 9 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0413",
+    "patient_id": "PAT-0413",
+    "date": "2024-12-22",
+    "physician": "Dr. Patel",
+    "note": "Admitted for dizziness. History of Diabetes Type 2. Labs show low potassium. Initiated physical therapy.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0414",
+    "patient_id": "PAT-0414",
+    "date": "2024-03-16",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. Sepsis suspected. Imaging ordered. dietary counseling prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0415",
+    "patient_id": "PAT-0415",
+    "date": "2024-01-27",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with fatigue. Vitals stable. Sepsis exacerbation noted. Recommended IV fluids. Follow-up in 14 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0416",
+    "patient_id": "PAT-0416",
+    "date": "2024-12-13",
+    "physician": "Dr. Johnson",
+    "note": "Admitted for fatigue. History of Hip Fracture. Labs show elevated BNP. Initiated physical therapy.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0417",
+    "patient_id": "PAT-0417",
+    "date": "2024-06-25",
+    "physician": "Dr. Lee",
+    "note": "Admitted for fever. History of Diabetes Type 2. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0418",
+    "patient_id": "PAT-0418",
+    "date": "2024-11-14",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with fever. Vitals stable. Hip Fracture exacerbation noted. Recommended oxygen therapy. Follow-up in 13 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0419",
+    "patient_id": "PAT-0419",
+    "date": "2024-01-17",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for confusion. Diabetes Type 2 suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0420",
+    "patient_id": "PAT-0420",
+    "date": "2024-03-18",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for confusion. Heart Failure suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0421",
+    "patient_id": "PAT-0421",
+    "date": "2024-09-12",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for chest pain. Pneumonia suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0422",
+    "patient_id": "PAT-0422",
+    "date": "2024-07-03",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports shortness of breath. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0423",
+    "patient_id": "PAT-0423",
+    "date": "2024-09-21",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for shortness of breath. Heart Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0424",
+    "patient_id": "PAT-0424",
+    "date": "2024-06-04",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for elevated blood glucose. Pneumonia suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0425",
+    "patient_id": "PAT-0425",
+    "date": "2024-02-13",
+    "physician": "Dr. Patel",
+    "note": "Admitted for swelling in legs. History of Stroke. Labs show elevated troponin. Initiated specialist referral.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0426",
+    "patient_id": "PAT-0426",
+    "date": "2024-09-15",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with fatigue. Vitals stable. Sepsis exacerbation noted. Recommended specialist referral. Follow-up in 5 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0427",
+    "patient_id": "PAT-0427",
+    "date": "2024-12-10",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports fever. Pneumonia well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0428",
+    "patient_id": "PAT-0428",
+    "date": "2024-02-11",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports confusion. COPD well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0429",
+    "patient_id": "PAT-0429",
+    "date": "2024-08-13",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for fever. Pneumonia suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0430",
+    "patient_id": "PAT-0430",
+    "date": "2024-11-04",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports fatigue. Diabetes Type 2 well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0431",
+    "patient_id": "PAT-0431",
+    "date": "2024-05-25",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports confusion. Stroke well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0432",
+    "patient_id": "PAT-0432",
+    "date": "2024-07-12",
+    "physician": "Dr. Patel",
+    "note": "Admitted for dizziness. History of Pneumonia. Labs show elevated creatinine. Initiated medication adjustment.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0433",
+    "patient_id": "PAT-0433",
+    "date": "2024-05-22",
+    "physician": "Dr. Garcia",
+    "note": "Emergency visit for fever. Renal Failure suspected. Imaging ordered. oxygen therapy prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0434",
+    "patient_id": "PAT-0434",
+    "date": "2024-03-02",
+    "physician": "Dr. Smith",
+    "note": "Admitted for chest pain. History of Sepsis. Labs show elevated troponin. Initiated IV fluids.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0435",
+    "patient_id": "PAT-0435",
+    "date": "2024-02-20",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for chest pain. Renal Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0436",
+    "patient_id": "PAT-0436",
+    "date": "2024-07-18",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with shortness of breath. Vitals stable. Diabetes Type 2 exacerbation noted. Recommended specialist referral. Follow-up in 4 days.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0437",
+    "patient_id": "PAT-0437",
+    "date": "2024-08-25",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. Stroke well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0438",
+    "patient_id": "PAT-0438",
+    "date": "2024-06-04",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for confusion. Sepsis suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0439",
+    "patient_id": "PAT-0439",
+    "date": "2024-05-19",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for dizziness. History of Diabetes Type 2. Labs show elevated troponin. Initiated oxygen therapy.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0440",
+    "patient_id": "PAT-0440",
+    "date": "2024-03-12",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports dizziness. COPD well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0441",
+    "patient_id": "PAT-0441",
+    "date": "2024-11-26",
+    "physician": "Dr. Patel",
+    "note": "Emergency visit for dizziness. Renal Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0442",
+    "patient_id": "PAT-0442",
+    "date": "2024-10-02",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with dizziness. Vitals stable. COPD exacerbation noted. Recommended medication adjustment. Follow-up in 5 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0443",
+    "patient_id": "PAT-0443",
+    "date": "2024-11-16",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports confusion. Renal Failure well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0444",
+    "patient_id": "PAT-0444",
+    "date": "2024-02-26",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports fatigue. Heart Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0445",
+    "patient_id": "PAT-0445",
+    "date": "2024-04-26",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for dizziness. COPD suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0446",
+    "patient_id": "PAT-0446",
+    "date": "2024-05-20",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports swelling in legs. Renal Failure well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0447",
+    "patient_id": "PAT-0447",
+    "date": "2024-12-19",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with fever. Vitals stable. COPD exacerbation noted. Recommended dietary counseling. Follow-up in 13 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0448",
+    "patient_id": "PAT-0448",
+    "date": "2024-06-23",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with chest pain. Vitals stable. Pneumonia exacerbation noted. Recommended IV fluids. Follow-up in 11 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0449",
+    "patient_id": "PAT-0449",
+    "date": "2024-03-06",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with chest pain. Vitals stable. Heart Failure exacerbation noted. Recommended dietary counseling. Follow-up in 6 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0450",
+    "patient_id": "PAT-0450",
+    "date": "2024-11-02",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports shortness of breath. COPD well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0451",
+    "patient_id": "PAT-0451",
+    "date": "2024-05-11",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for swelling in legs. Sepsis suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0452",
+    "patient_id": "PAT-0452",
+    "date": "2024-03-16",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with dizziness. Vitals stable. Pneumonia exacerbation noted. Recommended physical therapy. Follow-up in 12 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0453",
+    "patient_id": "PAT-0453",
+    "date": "2024-06-23",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports confusion. Sepsis well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0454",
+    "patient_id": "PAT-0454",
+    "date": "2024-08-26",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Sepsis exacerbation noted. Recommended oxygen therapy. Follow-up in 13 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0455",
+    "patient_id": "PAT-0455",
+    "date": "2024-11-19",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with swelling in legs. Vitals stable. COPD exacerbation noted. Recommended dietary counseling. Follow-up in 7 days.",
+    "diagnosis": "COPD",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0456",
+    "patient_id": "PAT-0456",
+    "date": "2024-05-14",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports shortness of breath. Sepsis well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0457",
+    "patient_id": "PAT-0457",
+    "date": "2024-03-07",
+    "physician": "Dr. Garcia",
+    "note": "Routine checkup. Patient reports shortness of breath. Stroke well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0458",
+    "patient_id": "PAT-0458",
+    "date": "2024-03-05",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with swelling in legs. Vitals stable. Renal Failure exacerbation noted. Recommended medication adjustment. Follow-up in 9 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0459",
+    "patient_id": "PAT-0459",
+    "date": "2024-09-10",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Renal Failure exacerbation noted. Recommended IV fluids. Follow-up in 7 days.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0460",
+    "patient_id": "PAT-0460",
+    "date": "2024-05-31",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with chest pain. Vitals stable. Pneumonia exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0461",
+    "patient_id": "PAT-0461",
+    "date": "2024-07-02",
+    "physician": "Dr. Patel",
+    "note": "Admitted for swelling in legs. History of Hip Fracture. Labs show high HbA1c. Initiated dietary counseling.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0462",
+    "patient_id": "PAT-0462",
+    "date": "2024-05-08",
+    "physician": "Dr. Garcia",
+    "note": "Admitted for shortness of breath. History of Sepsis. Labs show low hemoglobin. Initiated medication adjustment.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0463",
+    "patient_id": "PAT-0463",
+    "date": "2024-08-29",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for shortness of breath. Stroke suspected. Imaging ordered. physical therapy prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0464",
+    "patient_id": "PAT-0464",
+    "date": "2024-01-16",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for confusion. Stroke suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0465",
+    "patient_id": "PAT-0465",
+    "date": "2024-01-17",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for fatigue. Pneumonia suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Pneumonia",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0466",
+    "patient_id": "PAT-0466",
+    "date": "2024-03-28",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports swelling in legs. Hip Fracture well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0467",
+    "patient_id": "PAT-0467",
+    "date": "2024-07-19",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with dizziness. Vitals stable. Heart Failure exacerbation noted. Recommended IV fluids. Follow-up in 4 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0468",
+    "patient_id": "PAT-0468",
+    "date": "2024-10-27",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with dizziness. Vitals stable. Hip Fracture exacerbation noted. Recommended dietary counseling. Follow-up in 14 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0469",
+    "patient_id": "PAT-0469",
+    "date": "2024-02-16",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with shortness of breath. Vitals stable. Hip Fracture exacerbation noted. Recommended specialist referral. Follow-up in 6 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "LOW"
+  },
+  {
+    "note_id": "NOTE-PAT-0470",
+    "patient_id": "PAT-0470",
+    "date": "2024-02-18",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with shortness of breath. Vitals stable. Stroke exacerbation noted. Recommended IV fluids. Follow-up in 10 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0471",
+    "patient_id": "PAT-0471",
+    "date": "2024-04-16",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports shortness of breath. Renal Failure well-controlled on current regimen. Adjusted oxygen therapy dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0472",
+    "patient_id": "PAT-0472",
+    "date": "2024-08-24",
+    "physician": "Dr. Smith",
+    "note": "Admitted for elevated blood glucose. History of Renal Failure. Labs show elevated troponin. Initiated IV fluids.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0473",
+    "patient_id": "PAT-0473",
+    "date": "2024-07-02",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for chest pain. Heart Failure suspected. Imaging ordered. specialist referral prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0474",
+    "patient_id": "PAT-0474",
+    "date": "2024-04-12",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports dizziness. Sepsis well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0475",
+    "patient_id": "PAT-0475",
+    "date": "2024-09-19",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports dizziness. Diabetes Type 2 well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0476",
+    "patient_id": "PAT-0476",
+    "date": "2024-04-22",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Renal Failure well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0477",
+    "patient_id": "PAT-0477",
+    "date": "2024-06-15",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports swelling in legs. Diabetes Type 2 well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0478",
+    "patient_id": "PAT-0478",
+    "date": "2024-09-14",
+    "physician": "Dr. Smith",
+    "note": "Patient presents with shortness of breath. Vitals stable. Stroke exacerbation noted. Recommended oxygen therapy. Follow-up in 9 days.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0479",
+    "patient_id": "PAT-0479",
+    "date": "2024-08-15",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for elevated blood glucose. Heart Failure suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0480",
+    "patient_id": "PAT-0480",
+    "date": "2024-01-28",
+    "physician": "Dr. Smith",
+    "note": "Admitted for elevated blood glucose. History of Renal Failure. Labs show low hemoglobin. Initiated specialist referral.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0481",
+    "patient_id": "PAT-0481",
+    "date": "2024-10-08",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with swelling in legs. Vitals stable. Sepsis exacerbation noted. Recommended specialist referral. Follow-up in 5 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0482",
+    "patient_id": "PAT-0482",
+    "date": "2024-11-21",
+    "physician": "Dr. Lee",
+    "note": "Admitted for fever. History of Sepsis. Labs show elevated creatinine. Initiated specialist referral.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0483",
+    "patient_id": "PAT-0483",
+    "date": "2024-02-12",
+    "physician": "Dr. Patel",
+    "note": "Patient presents with fever. Vitals stable. Hip Fracture exacerbation noted. Recommended medication adjustment. Follow-up in 7 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0484",
+    "patient_id": "PAT-0484",
+    "date": "2024-06-19",
+    "physician": "Dr. Johnson",
+    "note": "Emergency visit for elevated blood glucose. Stroke suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "Stroke",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0485",
+    "patient_id": "PAT-0485",
+    "date": "2024-07-16",
+    "physician": "Dr. Lee",
+    "note": "Emergency visit for fever. COPD suspected. Imaging ordered. medication adjustment prescribed pending results.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0486",
+    "patient_id": "PAT-0486",
+    "date": "2024-12-23",
+    "physician": "Dr. Smith",
+    "note": "Emergency visit for shortness of breath. Renal Failure suspected. Imaging ordered. IV fluids prescribed pending results.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0487",
+    "patient_id": "PAT-0487",
+    "date": "2024-03-25",
+    "physician": "Dr. Smith",
+    "note": "Admitted for confusion. History of COPD. Labs show elevated BNP. Initiated physical therapy.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0488",
+    "patient_id": "PAT-0488",
+    "date": "2024-12-23",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports shortness of breath. Diabetes Type 2 well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0489",
+    "patient_id": "PAT-0489",
+    "date": "2024-02-26",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Diabetes Type 2 well-controlled on current regimen. Adjusted physical therapy dosage.",
+    "diagnosis": "Diabetes Type 2",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0490",
+    "patient_id": "PAT-0490",
+    "date": "2024-11-21",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports confusion. Hip Fracture well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0491",
+    "patient_id": "PAT-0491",
+    "date": "2024-02-19",
+    "physician": "Dr. Johnson",
+    "note": "Patient presents with chest pain. Vitals stable. Heart Failure exacerbation noted. Recommended physical therapy. Follow-up in 9 days.",
+    "diagnosis": "Heart Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0492",
+    "patient_id": "PAT-0492",
+    "date": "2024-01-30",
+    "physician": "Dr. Smith",
+    "note": "Routine checkup. Patient reports fever. Renal Failure well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Renal Failure",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0493",
+    "patient_id": "PAT-0493",
+    "date": "2024-01-02",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports fatigue. Hip Fracture well-controlled on current regimen. Adjusted dietary counseling dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  },
+  {
+    "note_id": "NOTE-PAT-0494",
+    "patient_id": "PAT-0494",
+    "date": "2024-07-16",
+    "physician": "Dr. Smith",
+    "note": "Admitted for fatigue. History of Stroke. Labs show elevated BNP. Initiated medication adjustment.",
+    "diagnosis": "Stroke",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0495",
+    "patient_id": "PAT-0495",
+    "date": "2024-05-04",
+    "physician": "Dr. Johnson",
+    "note": "Routine checkup. Patient reports chest pain. COPD well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0496",
+    "patient_id": "PAT-0496",
+    "date": "2024-09-30",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports confusion. Hip Fracture well-controlled on current regimen. Adjusted medication adjustment dosage.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0497",
+    "patient_id": "PAT-0497",
+    "date": "2024-07-07",
+    "physician": "Dr. Lee",
+    "note": "Routine checkup. Patient reports elevated blood glucose. Sepsis well-controlled on current regimen. Adjusted specialist referral dosage.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0498",
+    "patient_id": "PAT-0498",
+    "date": "2024-08-23",
+    "physician": "Dr. Lee",
+    "note": "Patient presents with chest pain. Vitals stable. Sepsis exacerbation noted. Recommended oxygen therapy. Follow-up in 12 days.",
+    "diagnosis": "Sepsis",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0499",
+    "patient_id": "PAT-0499",
+    "date": "2024-09-01",
+    "physician": "Dr. Patel",
+    "note": "Routine checkup. Patient reports elevated blood glucose. COPD well-controlled on current regimen. Adjusted IV fluids dosage.",
+    "diagnosis": "COPD",
+    "risk_tier": "HIGH"
+  },
+  {
+    "note_id": "NOTE-PAT-0500",
+    "patient_id": "PAT-0500",
+    "date": "2024-01-12",
+    "physician": "Dr. Garcia",
+    "note": "Patient presents with fever. Vitals stable. Hip Fracture exacerbation noted. Recommended medication adjustment. Follow-up in 10 days.",
+    "diagnosis": "Hip Fracture",
+    "risk_tier": "MEDIUM"
+  }
+]
